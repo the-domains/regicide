@@ -12,6 +12,10 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.35028696758672595
 name: regici.de
+navigation:
+  - name: Wasser!
+    url: 'http://water.org/water-crisis/water-sanitation-facts/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe284a50-b644-4c74-b4de-c5f0f3470584.jpg
 title: Quellenschutz
